@@ -1,2 +1,0 @@
-# WorkshopFlutter
-University project
